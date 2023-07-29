@@ -9,3 +9,4 @@ Services holds the `fetch` requests to the USGS API. There `fetchQuakes` (which 
 "# mini-seismo-tracker" 
 "# mini-seismo-tracker" 
 "# mini-seismo-tracker" 
+"# mini-seismo-tracker" 
